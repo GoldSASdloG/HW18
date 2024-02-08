@@ -1,7 +1,7 @@
 package lessonCar;
 
 
-public class Car {
+public abstract class Car {
     protected String bodyCar;
     protected String marka;
     protected double engenVolume;

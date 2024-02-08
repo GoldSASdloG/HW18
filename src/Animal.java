@@ -1,4 +1,6 @@
-public class Animal {
+
+
+public abstract class Animal {
     private double weight;
     private Integer age;
     private String name;
